@@ -44,15 +44,15 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center gap-2 text-muted-foreground">
                 <Mail className="h-4 w-4 text-primary" />
-                <span>info@brandventure.com</span>
+                <span>info@sherazbrandventure.com</span>
               </li>
               <li className="flex items-center gap-2 text-muted-foreground">
                 <Phone className="h-4 w-4 text-primary" />
-                <span>+1 (555) 123-4567</span>
+                <span>+1 (727) 366-1515</span>
               </li>
               <li className="flex items-center gap-2 text-muted-foreground">
                 <MapPin className="h-4 w-4 text-primary" />
-                <span>123 Business Ave, NY 10001</span>
+                <span>7901 4TH ST N STE 24869, ST PETERSBURG, FL. US 33702</span>
               </li>
             </ul>
           </div>
