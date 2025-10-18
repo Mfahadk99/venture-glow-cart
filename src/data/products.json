@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Luxury Rose Perfume",
+      "category": "Perfumes",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=500&q=80",
+      "description": "Elegant floral fragrance with notes of rose and jasmine"
+    },
+    {
+      "id": 2,
+      "name": "Ocean Breeze Cologne",
+      "category": "Perfumes",
+      "price": 75.50,
+      "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=500&q=80",
+      "description": "Fresh aquatic scent perfect for everyday wear"
+    },
+    {
+      "id": 3,
+      "name": "Midnight Oud",
+      "category": "Perfumes",
+      "price": 120.00,
+      "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=500&q=80",
+      "description": "Rich and mysterious oriental fragrance"
+    },
+    {
+      "id": 4,
+      "name": "Citrus Fresh EDT",
+      "category": "Perfumes",
+      "price": 65.00,
+      "image": "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=500&q=80",
+      "description": "Vibrant citrus blend for a refreshing start"
+    },
+    {
+      "id": 5,
+      "name": "Lavender Dreams",
+      "category": "Perfumes",
+      "price": 55.99,
+      "image": "https://images.unsplash.com/photo-1588405748880-12d1d2a59bd9?w=500&q=80",
+      "description": "Calming lavender with herbal undertones"
+    },
+    {
+      "id": 6,
+      "name": "Vanilla Essence",
+      "category": "Perfumes",
+      "price": 70.00,
+      "image": "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?w=500&q=80",
+      "description": "Warm and sweet vanilla perfume"
+    },
+    {
+      "id": 7,
+      "name": "Hydrating Face Serum",
+      "category": "Health & Beauty",
+      "price": 45.99,
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=500&q=80",
+      "description": "Deep hydration with hyaluronic acid"
+    },
+    {
+      "id": 8,
+      "name": "Vitamin C Brightening Cream",
+      "category": "Health & Beauty",
+      "price": 52.00,
+      "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=500&q=80",
+      "description": "Brightens and evens skin tone"
+    },
+    {
+      "id": 9,
+      "name": "Retinol Night Cream",
+      "category": "Health & Beauty",
+      "price": 68.50,
+      "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=500&q=80",
+      "description": "Anti-aging formula for overnight repair"
+    },
+    {
+      "id": 10,
+      "name": "Gentle Cleansing Foam",
+      "category": "Health & Beauty",
+      "price": 28.99,
+      "image": "https://images.unsplash.com/photo-1556228852-80d5196e7824?w=500&q=80",
+      "description": "Soft foam cleanser for all skin types"
+    },
+    {
+      "id": 11,
+      "name": "Rose Hip Oil",
+      "category": "Health & Beauty",
+      "price": 38.00,
+      "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=500&q=80",
+      "description": "Natural oil for nourishment and glow"
+    },
+    {
+      "id": 12,
+      "name": "Clay Face Mask",
+      "category": "Health & Beauty",
+      "price": 32.50,
+      "image": "https://images.unsplash.com/photo-1570554886111-e80fcca6a029?w=500&q=80",
+      "description": "Detoxifying mask for deep cleansing"
+    },
+    {
+      "id": 13,
+      "name": "Collagen Eye Cream",
+      "category": "Health & Beauty",
+      "price": 42.99,
+      "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=500&q=80",
+      "description": "Reduces dark circles and puffiness"
+    },
+    {
+      "id": 14,
+      "name": "Niacinamide Serum",
+      "category": "Health & Beauty",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=500&q=80",
+      "description": "Minimizes pores and improves texture"
+    },
+    {
+      "id": 15,
+      "name": "Sunscreen SPF 50",
+      "category": "Health & Beauty",
+      "price": 29.50,
+      "image": "https://images.unsplash.com/photo-1556228994-67f73e1c9d33?w=500&q=80",
+      "description": "Broad spectrum protection for daily use"
+    }
+  ]
+}
