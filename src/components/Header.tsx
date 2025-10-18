@@ -27,19 +27,21 @@ const Header = () => {
             <Link to="/contact" className="text-foreground hover:text-primary transition-colors">
               Contact Us
             </Link>
-            <Link to="/checkout" className="relative">
-              <Button variant="outline" size="icon" className="relative">
-                <ShoppingCart className="h-5 w-5" />
-                {getCartCount() > 0 && (
-                  <Badge 
-                    className="absolute -top-2 -right-2 h-5 w-5 flex items-center justify-center p-0 bg-secondary"
-                  >
-                    {getCartCount()}
-                  </Badge>
-                )}
-              </Button>
-            </Link>
           </nav>
+
+          {/* Cart Icon */}
+          <Link to="/checkout" className="relative">
+            <Button variant="outline" size="icon" className="relative">
+              <ShoppingCart className="h-5 w-5" />
+              {getCartCount() > 0 && (
+                <Badge 
+                  className="absolute -top-2 -right-2 h-5 w-5 flex items-center justify-center p-0 bg-secondary"
+                >
+                  {getCartCount()}
+                </Badge>
+              )}
+            </Button>
+          </Link>
 
           {/* Mobile Menu Button */}
           <button

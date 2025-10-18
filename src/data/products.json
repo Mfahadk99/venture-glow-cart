@@ -119,6 +119,70 @@
       "price": 29.50,
       "image": "https://images.unsplash.com/photo-1556228994-67f73e1c9d33?w=500&q=80",
       "description": "Broad spectrum protection for daily use"
+    },
+    {
+      "id": 16,
+      "name": "Creatine Monohydrate",
+      "category": "Bodybuilding",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?w=500&q=80",
+      "description": "Pure creatine monohydrate for muscle strength and power"
+    },
+    {
+      "id": 17,
+      "name": "Whey Protein Isolate",
+      "category": "Bodybuilding",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=500&q=80",
+      "description": "Fast-absorbing protein for muscle recovery and growth"
+    },
+    {
+      "id": 18,
+      "name": "Pre-Workout Energy",
+      "category": "Bodybuilding",
+      "price": 44.99,
+      "image": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=500&q=80",
+      "description": "Explosive energy and focus for intense workouts"
+    },
+    {
+      "id": 19,
+      "name": "BCAA Recovery",
+      "category": "Bodybuilding",
+      "price": 34.99,
+      "image": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=500&q=80",
+      "description": "Branch chain amino acids for faster muscle recovery"
+    },
+    {
+      "id": 20,
+      "name": "Mass Gainer Protein",
+      "category": "Bodybuilding",
+      "price": 69.99,
+      "image": "https://images.unsplash.com/photo-1579722820308-d74e571900a9?w=500&q=80",
+      "description": "High-calorie formula for lean muscle mass gain"
+    },
+    {
+      "id": 21,
+      "name": "Glutamine Powder",
+      "category": "Bodybuilding",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1599932698095-fa3c2c08f07f?w=500&q=80",
+      "description": "Supports muscle recovery and immune function"
+    },
+    {
+      "id": 22,
+      "name": "Casein Protein",
+      "category": "Bodybuilding",
+      "price": 54.99,
+      "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=500&q=80",
+      "description": "Slow-release protein for overnight muscle repair"
+    },
+    {
+      "id": 23,
+      "name": "Beta-Alanine",
+      "category": "Bodybuilding",
+      "price": 27.99,
+      "image": "https://images.unsplash.com/photo-1599932698294-d9a6b8f8c8a9?w=500&q=80",
+      "description": "Enhances endurance and reduces muscle fatigue"
     }
   ]
 }
