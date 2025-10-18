@@ -112,7 +112,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Email</h3>
-                    <p className="text-muted-foreground">contact@brandventure.com</p>
+                    <p className="text-muted-foreground">info@sherazbrandventure.com</p>
                   </div>
                 </div>
               </CardContent>
@@ -126,7 +126,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Phone</h3>
-                    <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                    <p className="text-muted-foreground">+1 (727) 366-1515</p>
                   </div>
                 </div>
               </CardContent>
@@ -141,8 +141,8 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold mb-1">Address</h3>
                     <p className="text-muted-foreground">
-                      123 Luxury Avenue<br />
-                      Beauty District, NY 10001
+                      7901 4TH ST N STE 24869<br />
+                      ST PETERSBURG, FL. US 33702
                     </p>
                   </div>
                 </div>
